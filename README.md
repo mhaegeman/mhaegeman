@@ -1,14 +1,10 @@
 <table align="center">
- <a href="README.md"><img src="images/us.svg" height="15"> English</a>
- <a href="README_fr.md"><img src="images/fr.svg" height="15"> Français</a>
- <a href="README_es.md"><img src="images/es.svg" height="15"> Español</a>
+ <tr>
+  <td><a href="README.md"><img src="images/us.svg" height="15"> English</a></td>
+  <td><a href="README_fr.md"><img src="images/fr.svg" height="15"> Français</a></td>
+  <td><a href="README_es.md"><img src="images/es.svg" height="15"> Español</a></td>
+ </tr>
 </table>
-
-<p align="center">
-  <a href="https://flagicons.lipis.dev/">
-    <img src="https://flagicons.lipis.dev/flags/1x1/flags?i=us.svg,fr.svg,es.svg" />
-  </a>
-</p>
 
 # Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Maxime, a Data Scientist 🤖📊📈
 
