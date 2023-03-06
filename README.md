@@ -35,6 +35,14 @@ Detection of clients with suspicious bank activities. Creation of a dashboard wi
 #### Let's Connect!
 I'm always excited to collaborate and connect with others in the data science and AI community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-haegeman/) or [Medium](https://medium.com/@maximehaegeman) to chat about all things data! 🤝👨‍💻
 
+## GitHub Stats
+
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaegeman&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
 <!--
 **mhaegeman/mhaegeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
