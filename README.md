@@ -13,10 +13,15 @@ I have experience working and applying Machine Learning tools with different typ
 #### Some of my Projects
   🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
 Based on Seattle's buildings data from 2015/2016. Prediction of the consumption of energy of a building depending on it's characteristics.
+
   🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  
   🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  
   🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  
   🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  
   
 #### Let's Connect!
 I'm always excited to collaborate and connect with others in the data science community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-haegeman/) or [Medium](https://medium.com/@maximehaegeman) to chat about all things data! 🤝👨‍💻
