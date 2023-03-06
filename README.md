@@ -11,20 +11,29 @@ I have experience working and applying Machine Learning tools with different typ
 
 
 #### Some of my Projects
-  🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  🔋 [Energy Consumption Prediction of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  
 Based on Seattle's buildings data from 2015/2016. Prediction of the consumption of energy of a building depending on it's characteristics.
 
-  🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  🎁 [Object Category Detection on a Marketplace](https://github.com/mhaegeman/Python-Object-Clasifier): 
   
-  🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+From images and text descriptions of multiple kind of objects, predicts the category of object in a Marketplace.
   
-  🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+  🥦 [Food Nutrition Scoring](https://github.com/mhaegeman/Nutriscore-Prediction):
   
-  🚀[Predicting Energy Consumption of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+Linear regression algorithm to predict a Nutriscore for food products using the open source database OpenFoodFacts.
+  
+  👩🏽‍🤝‍👩🏼 [E-Commerce Client Segmentation](https://github.com/mhaegeman/python-client-segmentation):
+  
+Creation of client clusters based on their Sales history and Demographic profiles.
+  
+  🏦 [Fraud Detection](https://github.com/mhaegeman/scoring-bank-project):
+  
+Detection of clients with suspicious bank activities. Creation of a dashboard with Streamlit for loan approval assistance.
   
   
 #### Let's Connect!
-I'm always excited to collaborate and connect with others in the data science community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-haegeman/) or [Medium](https://medium.com/@maximehaegeman) to chat about all things data! 🤝👨‍💻
+I'm always excited to collaborate and connect with others in the data science and AI community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-haegeman/) or [Medium](https://medium.com/@maximehaegeman) to chat about all things data! 🤝👨‍💻
 
 <!--
 **mhaegeman/mhaegeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
