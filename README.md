@@ -1,12 +1,19 @@
 <table align="center">
  <a href="README.md"><img src="images/us-flag.png" height="13"> English</a>
  <a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a>
- <a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a>
+ <a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a>
 </table>
 
 # Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Maxime, a Data Scientist 🤖📊📈
 
 I have experience working and applying Machine Learning tools with different types of data like numerical, audio, text, and images. I'm particularly curious about Deep Learning algorithms and love solving problems with data.
+
+## My Favs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,tensorflow,aws,gcp,git,github,vscode,docker,stackoverflow" />
+  </a>
+</p>
 
 ## About Me
 - Passionate about data and analytics, allways thriving for innovation 🤓
