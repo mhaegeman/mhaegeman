@@ -6,7 +6,7 @@
  </tr>
 </table>
 
-# Salut! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Moi c'est Maxime, je suis Data Scientist 🤖📊📈
+# Salut! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Moi c'est Maxime, je suis Data Scientist 
 
 J'ai de l'expérience professionnelle dans le développement et l'applications d'outils de Machine Learning différents types de données tels que numériques, audio, textuelles et d'images. Je suis particulièrement curieux des algorithmes d'apprentissage en profondeur et j'aime résoudre des problèmes avec des données.
 
