@@ -1,3 +1,9 @@
+<table align="center">
+ <a href="README.md"><img src="images/us-flag.png" height="13"> English</a>
+ <a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a>
+ <a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a>
+</table>
+
 # Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Maxime, a Data Scientist 🤖📊📈
 
 I have experience working and applying Machine Learning tools with different types of data like numerical, audio, text, and images. I'm particularly curious about Deep Learning algorithms and love solving problems with data.
