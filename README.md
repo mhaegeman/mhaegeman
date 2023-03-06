@@ -3,10 +3,10 @@
 I have experience working and applying Machine Learning tools with different types of data like numerical, audio, text, and images. I'm particularly curious about Deep Learning algorithms and love solving problems with data.
 
 #### About Me
-- Passionate about data and analytics 🤓
+- Passionate about data and analytics, allways thriving for innovation 🤓
 - Led projects involving up to a dozen people working amongst several departments 👥
 - Skilled in clear communication and presenting complex ideas to everyone 🗣️💬
-- Check out my LinkedIn profile here 🤝
+- Adaptation has no more secrets to me as I worked in several countries in Europe with people from around the world 🌍
 - Engaged writing articles about tools and skills for data scientists ✍️📝
 
 
