@@ -1,8 +1,8 @@
-### Hi there! 👋 I'm Maxime, a Data Scientist 🤖📊📈
+# Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Maxime, a Data Scientist 🤖📊📈
 
 I have experience working and applying Machine Learning tools with different types of data like numerical, audio, text, and images. I'm particularly curious about Deep Learning algorithms and love solving problems with data.
 
-#### About Me
+## About Me
 - Passionate about data and analytics, allways thriving for innovation 🤓
 - Led projects involving up to a dozen people working amongst several departments 👥
 - Skilled in clear communication and presenting complex ideas to everyone 🗣️💬
@@ -10,7 +10,7 @@ I have experience working and applying Machine Learning tools with different typ
 - Engaged writing articles about tools and skills for data scientists ✍️📝
 
 
-#### Some of my Projects
+## Some of my Projects
   🔋 [Energy Consumption Prediction of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
   
 Based on Seattle's buildings data from 2015/2016. Prediction of the consumption of energy of a building depending on it's characteristics.
@@ -33,7 +33,7 @@ Detection of clients with suspicious bank activities. Creation of a dashboard wi
 
 <!-- GitHub section -->
 
- ####  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhaegeman" alt="Gift's LangStat" />
@@ -48,18 +48,18 @@ Detection of clients with suspicious bank activities. Creation of a dashboard wi
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhaegeman&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/mhaegeman/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhaegeman&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
 <!-- GitHub section: END -->
 
-#### Let's Connect!
+## Let's Connect!
 I'm always excited to collaborate and connect with others in the data science and AI community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-haegeman/) or [Medium](https://medium.com/@maximehaegeman) to chat about all things data! 🤝👨‍💻
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaegeman&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
 <!--
