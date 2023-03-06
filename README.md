@@ -30,18 +30,37 @@ Creation of client clusters based on their Sales history and Demographic profile
   🏦 [Fraud Detection](https://github.com/mhaegeman/scoring-bank-project):
   
 Detection of clients with suspicious bank activities. Creation of a dashboard with Streamlit for loan approval assistance.
-  
-  
+
+<!-- GitHub section -->
+
+ ####  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhaegeman" alt="Gift's LangStat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhaegeman&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+</div>
+
+**Expand to view**
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mhaegeman&show_icons=true" />
+</details>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mhaegeman&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+
+<!-- GitHub section: END -->
+
 #### Let's Connect!
 I'm always excited to collaborate and connect with others in the data science and AI community. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/maxime-haegeman/) or [Medium](https://medium.com/@maximehaegeman) to chat about all things data! 🤝👨‍💻
 
-## GitHub Stats
+<!-- Profile Views -->
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaegeman&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 
 <!--
 **mhaegeman/mhaegeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
