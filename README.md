@@ -4,11 +4,16 @@
  <a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a>
 </table>
 
+<p align="center">
+  <a href="https://flagicons.lipis.dev/">
+    <img src="https://flagicons.lipis.dev/flags/1x1/flags?i=us.svg,fr.svg,es.svg" />
+  </a>
+</p>
+
 # Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I'm Maxime, a Data Scientist 🤖📊📈
 
 I have experience working and applying Machine Learning tools with different types of data like numerical, audio, text, and images. I'm particularly curious about Deep Learning algorithms and love solving problems with data.
 
-## My Favs
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,tensorflow,aws,gcp,git,github,vscode,docker,stackoverflow" />
