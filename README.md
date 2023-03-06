@@ -1,7 +1,7 @@
 <table align="center">
- <a href="README.md"><img src="images/us-flag.png" height="13"> English</a>
- <a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a>
- <a href="README_sp.md"><img src="images/sp-flag.png" height="13"> Español</a>
+ <a href="README.md"><img src="images/us.svg" height="15"> English</a>
+ <a href="README_fr.md"><img src="images/fr.svg" height="15"> Français</a>
+ <a href="README_es.md"><img src="images/es.svg" height="15"> Español</a>
 </table>
 
 <p align="center">
