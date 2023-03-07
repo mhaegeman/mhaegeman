@@ -54,11 +54,11 @@ Detección de clientes con actividades bancarias sospechosas. Creación de un pa
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-**Ver más**
+<!-- **Ver más**
 <details>
   <summary><b>:zap: Estadísticas de perfil de GitHub</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mhaegeman&show_icons=true" />
-</details>
+</details> -->
 
 <!-- GitHub section: END -->
 
