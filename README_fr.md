@@ -51,14 +51,14 @@ Détection de clients présentant des activités bancaires suspectes. Création 
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhaegeman" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaegeman&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
-**Afficher la suite**
+<!-- **Afficher la suite**
 <details>
   <summary><b>:zap: GitHub Profil Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mhaegeman&show_icons=true" />
-</details>
+</details> -->
 
 <!-- GitHub section: END -->
 
