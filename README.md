@@ -27,11 +27,11 @@ I have experience working and applying Machine Learning tools with different typ
 ## Some of my Projects
   🔋 [Energy Consumption Prediction of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
   
-Based on Seattle's buildings data from 2015/2016. Prediction of the consumption of energy of a building depending on it's characteristics.
+Based on Seattle's buildings data from 2015/2016. Prediction of the consumption of energy of a building depending on it's characteristics. Correlation study and Regression models.
 
   🎁 [Object Category Detection on a Marketplace](https://github.com/mhaegeman/Python-Object-Clasifier): 
   
-From images and text descriptions of multiple kind of objects, predicts the category of object in a Marketplace.
+From images and text descriptions of multiple kind of objects, predicts the category of object in a Marketplace. LDA, Embeddings for the text and SIFT, CNN and Transfer Learning (VGG16) for the image classification.
   
   🥦 [Food Nutrition Scoring](https://github.com/mhaegeman/Nutriscore-Prediction):
   
