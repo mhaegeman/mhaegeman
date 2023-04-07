@@ -31,8 +31,8 @@ I have experience working and applying Machine Learning tools with different typ
   <a href="https://github.com/mhaegeman/fruit-classifier">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=fruit-classifier" />
   </a>
-  <a href="https://github.com/mhaegeman/bank-scoring-dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=bank-scoring-dashboard" />
+  <a href="https://github.com/mhaegeman/scoring-bank-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=scoring-bank-project" />
   </a>
 </p>
 
