@@ -57,7 +57,7 @@ Detection of clients with suspicious bank activities. Creation of a dashboard wi
 <!-- **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mhaegeman&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mhaegeman&show_icons=true" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaegeman&show_icons=true&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
 </details> -->
 
 <!-- GitHub section: END -->
