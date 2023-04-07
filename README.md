@@ -35,9 +35,24 @@ I have experience working and applying Machine Learning tools with different typ
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=scoring-bank-project" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/mhaegeman/Sparkling-Titanic">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=Sparkling-Titanic" />
+  </a>
+  <a href="https://github.com/mhaegeman/openweather">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=openweather" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mhaegeman/python-client-segmentation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=python-client-segmentation" />
+  </a>
+  <a href="https://github.com/mhaegeman/Energy-consumption-prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=Energy-consumption-prediction" />
+  </a>
+</p>
 
-
-  🔋 [Energy Consumption Prediction of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
+<!--  🔋 [Energy Consumption Prediction of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
   
 Based on Seattle's buildings data from 2015/2016. Prediction of the consumption of energy of a building depending on it's characteristics. Correlation study and Regression models.
 
@@ -55,7 +70,8 @@ Creation of client clusters based on their Sales history and Demographic profile
   
   🏦 [Fraud Detection](https://github.com/mhaegeman/scoring-bank-project):
   
-Detection of clients with suspicious bank activities. Creation of a dashboard with Streamlit for loan approval assistance.
+Detection of clients with suspicious bank activities. Creation of a dashboard with Streamlit for loan approval assistance. 
+-->
 
 <!-- GitHub section -->
 
