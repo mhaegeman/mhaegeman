@@ -25,6 +25,18 @@ I have experience working and applying Machine Learning tools with different typ
 
 
 ## Some of my Projects
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/mhaegeman/fruit-classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=fruit-classifier" />
+  </a>
+  <a href="https://github.com/mhaegeman/bank-scoring-dashboard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=bank-scoring-dashboard" />
+  </a>
+</p>
+
+
   🔋 [Energy Consumption Prediction of Buildings](https://github.com/mhaegeman/Energy-consumption-prediction):
   
 Based on Seattle's buildings data from 2015/2016. Prediction of the consumption of energy of a building depending on it's characteristics. Correlation study and Regression models.
