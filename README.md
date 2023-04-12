@@ -32,23 +32,23 @@ I have experience working and applying Machine Learning tools with different typ
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=fruit-classifier" />
   </a>
   <a href="https://github.com/mhaegeman/scoring-bank-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&repo=scoring-bank-project" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=scoring-bank-project" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mhaegeman/Sparkling-Titanic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&repo=Sparkling-Titanic" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Sparkling-Titanic" />
   </a>
   <a href="https://github.com/mhaegeman/openweather">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&repo=openweather" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=openweather" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/mhaegeman/python-client-segmentation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&repo=python-client-segmentation" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=python-client-segmentation" />
   </a>
   <a href="https://github.com/mhaegeman/Energy-consumption-prediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&repo=Energy-consumption-prediction" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Energy-consumption-prediction" />
   </a>
 </p>
 
