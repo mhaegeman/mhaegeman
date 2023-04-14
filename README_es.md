@@ -25,6 +25,33 @@ Tengo experiencia trabajando y aplicando herramientas de Machine Learning con di
 
 
 ## Algunos de mis proyectos 
+
+<p align="center">
+  <a href="https://github.com/mhaegeman/fruit-classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=fruit-classifier" />
+  </a>
+  <a href="https://github.com/mhaegeman/scoring-bank-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=scoring-bank-project" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mhaegeman/Sparkling-Titanic">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Sparkling-Titanic" />
+  </a>
+  <a href="https://github.com/mhaegeman/openweather">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=openweather" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mhaegeman/python-client-segmentation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=python-client-segmentation" />
+  </a>
+  <a href="https://github.com/mhaegeman/Energy-consumption-prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Energy-consumption-prediction" />
+  </a>
+</p>
+
+<!--
   🔋 [Predicción de consumo de energía de edificios](https://github.com/mhaegeman/Energy-consumption-prediction):
   
 Basado en los datos de edificios de Seattle de 2015/2016. Predicción del consumo de energía de un edificio en función de sus características.
@@ -44,6 +71,7 @@ Creación de grupos de clientes basados en su historial de ventas y perfiles dem
   🏦 [Detección de fraude](https://github.com/mhaegeman/scoring-bank-project):
   
 Detección de clientes con actividades bancarias sospechosas. Creación de un panel de control con Streamlit para asistencia en la aprobación de préstamos.
+-->
 
 <!-- GitHub section -->
 
