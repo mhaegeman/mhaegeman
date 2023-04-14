@@ -25,6 +25,33 @@ J'ai de l'expérience professionnelle dans le développement et l'applications d
 
 
 ## Quelques projets perso
+
+<p align="center">
+  <a href="https://github.com/mhaegeman/fruit-classifier">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=fruit-classifier" />
+  </a>
+  <a href="https://github.com/mhaegeman/scoring-bank-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=scoring-bank-project" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mhaegeman/Sparkling-Titanic">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Sparkling-Titanic" />
+  </a>
+  <a href="https://github.com/mhaegeman/openweather">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=openweather" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/mhaegeman/python-client-segmentation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=python-client-segmentation" />
+  </a>
+  <a href="https://github.com/mhaegeman/Energy-consumption-prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Energy-consumption-prediction" />
+  </a>
+</p>
+
+<!--
   🔋 [Prédiction de la consommation d'énergie des bâtiments](https://github.com/mhaegeman/Energy-consumption-prediction):
   
 À partir des données sur les bâtiments de Seattle de 2015/2016. Prédiction de la consommation d'énergie d'un bâtiment en fonction de ses caractéristiques.
@@ -43,7 +70,7 @@ Création de clusters de clients en se basant sur leur historique d'achats et le
 
   🏦 [Détection de fraudes](https://github.com/mhaegeman/scoring-bank-project):
   
-Détection de clients présentant des activités bancaires suspectes. Création d'un tableau de bord avec Streamlit pour l'assistance à l'approbation de prêts.
+Détection de clients présentant des activités bancaires suspectes. Création d'un tableau de bord avec Streamlit pour l'assistance à l'approbation de prêts. -->
 
 <!-- GitHub section -->
 
