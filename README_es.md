@@ -27,6 +27,14 @@ class Maxime(DataEngineer, MLEngineer):
 `````
 
 <br>
+<div align="center">
+  <a href="https://www.maximehaegeman.dev">
+    <img src="https://img.shields.io/badge/🌐_VISITAR_MI_PORTAFOLIO-www.maximehaegeman.dev-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" alt="Visitar Portafolio" />
+  </a>
+</div>
+<br>
+
+<br>
 
 ### `> sys_info --tech-stack`
 
