@@ -6,9 +6,29 @@
  </tr>
 </table>
 
-# Salut! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Moi c'est Maxime, je suis Data Scientist 
+```python
+from education import DataScience
+import innovation
 
-J'ai de l'expérience professionnelle dans le développement et l'applications d'outils de Machine Learning différents types de données tels que numériques, audio, textuelles et d'images. Je suis particulièrement curieux des algorithmes d'apprentissage en profondeur et j'aime résoudre des problèmes avec des données.
+class Maxime(DataEngineer, MLEngineer):
+    """
+    Un développeur faisant le pont entre modèles et production.
+    Je tire parti de mes bases en Data Science pour architecturer
+    des systèmes de données évolutifs et des pipelines ML robustes.
+    """
+    
+    def __init__(self):
+        self.current_role = "Data Engineer @ Massive Entertainment (Ubisoft)"
+        self.focus = ["Analytics de Jeux Live", "Optimisation Big Data", "ML Ops"]
+        self.location = "Copenhague, Danemark"
+    
+    def get_status(self):
+        return "Construction de backends évolutifs & automatisation de workflows."
+`````
+
+<br>
+
+### `> sys_info --tech-stack`
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,101 +36,92 @@ J'ai de l'expérience professionnelle dans le développement et l'applications d
   </a>
 </p>
 
-## À propos de moi
-- Passionné de Data et Analytics, toujours en quête d'innovations 🤓
-- Gestion de projets impliquant jusqu'à une dizaine de personnes travaillant dans différents services 👥
-- Communication claire et précise, capable de présenter des idées complexes à tout le monde 🗣️💬
-- L'adaptation n'a plus de secrets pour moi car j'ai travaillé dans plusieurs pays en Europe et avec des personnes du monde entier 🌍
-- Écriture engagée d'articles sur les outils et compétences pour les scientifiques de données ✍️📝
+<br>
 
+### `> cat /var/log/expérience.json`
 
-## Quelques projets perso
+```json
+[
+  {
+    "période": "2024 - Présent",
+    "role": "Data Engineer",
+    "entreprise": "Massive Entertainment - A Ubisoft Studio",
+    "stack": ["PySpark", "SQL", "Databricks", "Game Analytics"]
+  },
+  {
+    "période": "2023 - 2024",
+    "role": "Data Scientist / ML Engineer",
+    "entreprise": "MvH Media",
+    "stack": ["Airflow", "BigQuery", "GCS", "NLP", "Streamlit"]
+  },
+  {
+    "période": "2022 - 2023",
+    "role": "Data Scientist",
+    "entreprise": "BNZSA",
+    "stack": ["Python", "SQL", "Transformers", "CRM Data"]
+  }
+]
+```
 
-<p align="center">
-  <a href="https://github.com/mhaegeman/fruit-classifier">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=fruit-classifier" />
-  </a>
-  <a href="https://github.com/mhaegeman/scoring-bank-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=scoring-bank-project" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mhaegeman/Sparkling-Titanic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Sparkling-Titanic" />
-  </a>
-  <a href="https://github.com/mhaegeman/openweather">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=openweather" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/mhaegeman/python-client-segmentation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=python-client-segmentation" />
-  </a>
-  <a href="https://github.com/mhaegeman/Energy-consumption-prediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=Energy-consumption-prediction" />
-  </a>
-</p>
+<br>
 
-<!--
-  🔋 [Prédiction de la consommation d'énergie des bâtiments](https://github.com/mhaegeman/Energy-consumption-prediction):
-  
-À partir des données sur les bâtiments de Seattle de 2015/2016. Prédiction de la consommation d'énergie d'un bâtiment en fonction de ses caractéristiques.
+### `> ls -la ./projets_selectionnés`
 
-  🎁 [Détection de catégories d'objets sur une Marketplace](https://github.com/mhaegeman/Python-Object-Clasifier): 
-  
-À partir d'images et de descriptions textuelles de différents types d'objets, prédiction de la catégorie d'objet sur une place de marché.
+<table style="border: none;"\>
+<tr\>
+<td width="50%"\>
+<h3 align="center">🤖 Générateur de Contenu SEO</h3>
+<div align="center">
+<a href="https://github.com/mhaegeman/seo-content-generator">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=seo-content-generator" />
+</a>
+</div>
+<p align="center"><i>App GenAI de bout en bout. LLM fine-tuné déployé sur Streamlit.</i></p>
+</td>
+<td width="50%">
+<h3 align="center">🌩️ OpenWeather Data Pipeline</h3>
+<div align="center">
+<a href="https://github.com/mhaegeman/openweather">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=openweather" />
+</a>
+</div>
+<p align="center"><i>Ingestion et analyse de données météorologiques en temps réel.</i></p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🏦 Modèle de Scoring Bancaire</h3>
+<div align="center">
+<a href="https://github.com/mhaegeman/scoring-bank-project">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=scoring-bank-project" />
+</a>
+</div>
+<p align="center"><i>Algorithmes de scoring de crédit et de détection de fraude.</i></p>
+</td>
+<td width="50%">
+<h3 align="center">🍏 Classificateur de Fruits</h3>
+<div align="center">
+<a href="https://github.com/mhaegeman/fruit-classifier">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=fruit-classifier" />
+</a>
+</div>
+<p align="center"><i>Projet de computer vision utilisant des CNN.</i></p>
+</td>
+</tr>
+</table>
 
-  🥦 [Prédiction du Nutriscore](https://github.com/mhaegeman/Nutriscore-Prediction):
-  
-Algorithme de régression linéaire pour prédire un Nutriscore pour les produits alimentaires en utilisant la base de données OpenFoodFacts en open source.
+<br>
 
-  👩🏽‍🤝‍👩🏼 [Segmentation de clients pour un commerce en ligne](https://github.com/mhaegeman/python-client-segmentation):
-  
-Création de clusters de clients en se basant sur leur historique d'achats et leurs profils démographiques.
+### `> git fetch --stats`
 
-  🏦 [Détection de fraudes](https://github.com/mhaegeman/scoring-bank-project):
-  
-Détection de clients présentant des activités bancaires suspectes. Création d'un tableau de bord avec Streamlit pour l'assistance à l'approbation de prêts. -->
-
-<!-- GitHub section -->
-
- ##  Mes stats GitHub <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhaegeman" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhaegeman&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaegeman&theme=dark&background=0d1117&currStreakLabel=00ff9d" alt="Streak Stats" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mhaegeman&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=00ff9d&icon_color=00ff9d" alt="Maxime's Stats" />
 </div>
 
-<!-- **Afficher la suite**
-<details>
-  <summary><b>:zap: GitHub Profil Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mhaegeman&show_icons=true" />
-</details> -->
+<br>
 
-<!-- GitHub section: END -->
-
-## Connectons-nous!
-Je suis toujours ravi de collaborer et de me connecter avec d'autres personnes de la communauté de la Data Science et de l'IA 🤝👨‍💻
-
+### `> ./prise_de_contact.sh`
 <p><a href="https://github.com/mhaegeman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mhaegeman_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/maxime-haegeman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@maximehaegeman" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhaegeman&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-<!--
-**mhaegeman/mhaegeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
