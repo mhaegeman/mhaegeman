@@ -6,130 +6,82 @@
  </tr>
 </table>
 
-```python
-from education import DataScience
-import innovation
+# Maxime Haegeman
+**Lead Data / ML Engineer basé à Copenhague**
 
-class Maxime(DataEngineer, MLEngineer):
-    """
-    Un développeur faisant le pont entre modèles et production.
-    Je tire parti de mes bases en Data Science pour architecturer
-    des systèmes de données évolutifs et des pipelines ML robustes.
-    """
-    
-    def __init__(self):
-        self.current_role = "Data Engineer @ Massive Entertainment (Ubisoft)"
-        self.focus = ["Analytics de Jeux Live", "Optimisation Big Data", "ML Ops"]
-        self.location = "Copenhague, Danemark"
-    
-    def get_status(self):
-        return "Construction de backends évolutifs & automatisation de workflows."
-`````
+Je conçois des plateformes data scalables et des systèmes ML en production. Je suis actuellement à la recherche d’un poste de **Data Engineer** ou **ML Engineer** à Copenhague, avec un focus sur la fiabilité des pipelines, les plateformes d’analytics et le machine learning appliqué.
 
-<br>
-<div align="center">
-  <a href="https://www.maximehaegeman.dev">
-    <img src="https://img.shields.io/badge/🌐_VISITER_MON_PORTFOLIO-www.maximehaegeman.dev-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0d1117" alt="Visiter Portfolio" />
-  </a>
-</div>
-<br>
+**Contact**
+- 📍 Copenhague, Danemark (résident permanent)
+- ✉️ maximehaegeman@gmail.com
+- 📞 +45 50 62 68 10
+- 💼 [LinkedIn](https://www.linkedin.com/in/maxime-haegeman)
+- 🌐 [Portfolio](https://www.maximehaegeman.dev)
 
-<br>
+---
 
-### `> sys_info --tech-stack`
+## Axes d’expertise
+- Architecture de plateformes data, patterns Lakehouse, ETL/ELT scalables.
+- Traitement distribué (PySpark), orchestration (Airflow) et CI/CD.
+- Pipelines ML en production : NLP, recommandation, outillage du cycle de vie modèle.
+- Déploiements cloud sur Azure, GCP et AWS.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,tensorflow,aws,gcp,git,github,vscode,docker,stackoverflow" />
-  </a>
-</p>
+## Compétences techniques
+- **Langages :** Python, SQL, Bash
+- **Data Engineering :** PySpark, Airflow, Delta Lake, CI/CD (Git)
+- **Cloud & Infrastructure :** Azure (Databricks, AKV, Entra), GCP (BigQuery, Vertex AI, Cloud Run), AWS (S3, EMR), Docker
+- **Machine Learning :** TensorFlow, PyTorch, Hugging Face, spaCy
+- **Monitoring & BI :** Grafana, Tableau, Power BI
 
-<br>
+---
 
-### `> cat /var/log/expérience.json`
+## Expérience
+**Data Engineer — Massive Entertainment (Ubisoft Studio)** | Malmö, Suède | **Mars 2024 – Aujourd’hui**
+- Référent technique pour les pipelines ML et analytics ; standards de code et revues.
+- Migration d’une plateforme legacy vers **Azure Databricks**.
+- Mise en place de pipelines de monitoring avec **Grafana**.
+- Développement et maintenance d’une librairie Python interne.
 
-```json
-[
-  {
-    "période": "2024 - Présent",
-    "role": "Data Engineer",
-    "entreprise": "Massive Entertainment - A Ubisoft Studio",
-    "stack": ["PySpark", "SQL", "Databricks", "Game Analytics"]
-  },
-  {
-    "période": "2023 - 2024",
-    "role": "Data Scientist / ML Engineer",
-    "entreprise": "MvH Media",
-    "stack": ["Airflow", "BigQuery", "GCS", "NLP", "Streamlit"]
-  },
-  {
-    "période": "2022 - 2023",
-    "role": "Data Scientist",
-    "entreprise": "BNZSA",
-    "stack": ["Python", "SQL", "Transformers", "CRM Data"]
-  }
-]
-```
+**Data / ML Engineer — MvH Media** | Dongen, Pays-Bas | **Jan 2023 – Fév 2024**
+- Développement de services Python backend pour un outil interne.
+- Conception d’architectures Data Warehouse sur **GCP**.
+- Produits NLP internes pour l’analyse d’avis clients et la génération de texte.
 
-<br>
+**Data Scientist — BNZSA** | Madrid, Espagne | **Avr 2022 – Déc 2022**
+- Pipeline complet de preprocessing des données CRM.
+- Modèles de propension réduisant le volume d’appels sortants de 25 %.
+- Fine-tuning de transformers pour la classification de pays.
+- Recherche sur des pipelines ML de transcription, traduction et NER.
 
-### `> ls -la ./projets_selectionnés`
+**Junior Data Scientist — BECQUET** | Armentières, France | **Sep 2020 – Mar 2022**
+- Dashboards SQL Server pour les ventes et l’analytics client.
+- Segmentation et scoring client, réduction des coûts marketing de 10 %.
+- Analyse et visualisation d’un nouveau segment marché.
 
-<table style="border: none;"\>
-<tr\>
-<td width="50%"\>
-<h3 align="center">🤖 Générateur de Contenu SEO</h3>
-<div align="center">
-<a href="https://github.com/mhaegeman/seo-content-generator">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=seo-content-generator" />
-</a>
-</div>
-<p align="center"><i>App GenAI de bout en bout. LLM fine-tuné déployé sur Streamlit.</i></p>
-</td>
-<td width="50%">
-<h3 align="center">🌩️ OpenWeather Data Pipeline</h3>
-<div align="center">
-<a href="https://github.com/mhaegeman/openweather">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=openweather" />
-</a>
-</div>
-<p align="center"><i>Ingestion et analyse de données météorologiques en temps réel.</i></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">🏦 Modèle de Scoring Bancaire</h3>
-<div align="center">
-<a href="https://github.com/mhaegeman/scoring-bank-project">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=scoring-bank-project" />
-</a>
-</div>
-<p align="center"><i>Algorithmes de scoring de crédit et de détection de fraude.</i></p>
-</td>
-<td width="50%">
-<h3 align="center">🍏 Classificateur de Fruits</h3>
-<div align="center">
-<a href="https://github.com/mhaegeman/fruit-classifier">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=mhaegeman&repo=fruit-classifier" />
-</a>
-</div>
-<p align="center"><i>Projet de computer vision utilisant des CNN.</i></p>
-</td>
-</tr>
-</table>
+---
 
-<br>
+## Projets sélectionnés
+- **SEO Content Generator** — app GenAI end-to-end avec LLM fine-tuné, déployée sur Streamlit.
+- **OpenWeather Data Pipeline** — ingestion et analyse en temps réel.
+- **Banking Scoring Model** — scoring crédit et détection de fraude.
+- **Fruit Classifier** — projet de vision par ordinateur avec CNN.
 
-### `> git fetch --stats`
+---
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaegeman&theme=dark&background=0d1117&currStreakLabel=00ff9d" alt="Streak Stats" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=mhaegeman&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=00ff9d&icon_color=00ff9d" alt="Maxime's Stats" />
-</div>
+## Formation
+- **Executive Masters in Deep Learning** — MIOTI (2022)
+- **Master en Data Science** — OpenClassrooms (2020–2022)
+- **BSc en ingénierie générale** — HEI (2016–2019)
 
-<br>
+---
 
-### `> ./prise_de_contact.sh`
-<p><a href="https://github.com/mhaegeman" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mhaegeman_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/maxime-haegeman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@maximehaegeman" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+## Langues
+- Danois : B1 (en cours d’apprentissage)
+- Anglais : Courant
+- Français : Courant
+- Espagnol : Courant
+
+---
+
+## Contact
+Si vous recrutez à Copenhague pour un poste Data Engineer ou ML Engineer, n’hésitez pas à me contacter.
