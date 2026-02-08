@@ -13,8 +13,6 @@ I build scalable data platforms and production ML systems. I am currently lookin
 
 **Contact**
 - 📍 Copenhagen, Denmark (permanent resident)
-- ✉️ maximehaegeman@gmail.com
-- 📞 +45 50 62 68 10
 - 💼 [LinkedIn](https://www.linkedin.com/in/maxime-haegeman)
 - 🌐 [Portfolio](https://www.maximehaegeman.dev)
 
