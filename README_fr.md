@@ -11,9 +11,11 @@
 
 <br/>
 
+---
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Maxime.;Lead+Data+%2F+ML+Engineer;Bas%C3%A9+%C3%A0+Copenhague%2C+Danemark.)
 
-# Maxime Haegeman
+---
 
 [![Vues du profil](https://komarev.com/ghpvc/?username=mhaegeman&style=flat-square&color=00ff9d&label=vues+du+profil)](https://github.com/mhaegeman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maxime--haegeman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
