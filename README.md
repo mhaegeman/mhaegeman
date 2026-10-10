@@ -93,34 +93,6 @@ class Maxime(DataScientist, DataEngineer):
 
 ---
 
-## 💼 Experience
-
-**Data Engineer** — [Massive Entertainment (Ubisoft Studio)](https://www.massive.se/) | Malmö, Sweden | **Mar 2024 – Present**
-- Technical reference for ML and analytics pipelines; define coding standards and conduct code reviews.
-- Led the migration from a legacy data platform to **Azure Databricks**, improving scalability and compute efficiency.
-- Designed real-time monitoring pipelines with **Grafana** for live game analytics.
-- Built and maintained a core internal Python library shared across the data team.
-
-**Data Scientist / ML Engineer** — [Follo](https://folloagency.com/) | Dongen, Netherlands | **Jan 2023 – Feb 2024**
-- Built Python back-end services powering internal analytics tooling used daily by the marketing team.
-- Designed end-to-end **Data Warehouse architectures on GCP** (BigQuery + GCS) for external clients.
-- Delivered NLP products for customer review sentiment analysis and automated text generation.
-- Built ETL pipelines with **Airflow** and Pandas for multi-source data collection and preprocessing.
-
-**Data Scientist** — [Anteriad](https://anteriad.com/) | Madrid, Spain | **Apr 2022 – Dec 2022**
-- Built a global CRM data pipeline (Python + SQL) to collect, validate, and clean data at scale.
-- Deployed propensity models reducing outbound call volume by **25%** through precise targeting.
-- Fine-tuned a Transformer model for postal address country classification — **83% accuracy** across 21 countries.
-- Developed a speech-to-text analysis tool to extract insights from customer service calls using NLP.
-
-**Junior Data Scientist** — BECQUET | Armentières, France | **Sep 2020 – Mar 2022**
-- Built SQL Server dashboards for sales performance and customer analytics reporting.
-- Developed a customer segmentation & scoring model, reducing marketing costs by **10%**.
-- Identified a new target market segment through exploratory data analysis and visualization.
-- Delivered ad-hoc analysis and reporting to support marketing strategy and decision-making.
-
----
-
 ## 🚀 Selected Projects
 
 | Project | Description | Stack |
@@ -131,30 +103,21 @@ class Maxime(DataScientist, DataEngineer):
 
 ---
 
-## 🎓 Education
-
-- **Executive Masters in Deep Learning** — MIOTI (2022)
-- **Masters in Data Science** — OpenClassrooms (2020–2022)
-- **BSc in General Engineering** — HEI (2016–2019)
-
----
-
-## 🌍 Languages
-
-- 🇩🇰 Danish: B1 (actively learning)
-- 🇬🇧 English: Fluent
-- 🇫🇷 French: Fluent
-- 🇪🇸 Spanish: Fluent
-
----
-
-## 📊 GitHub Stats
+## 🕹️ Gadgets & Stats
 
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhaegeman&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/mhaegeman)
 &nbsp;
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaegeman&layout=compact&theme=github_dark&hide_border=true)](https://github.com/mhaegeman)
+
+<br/>
+
+[![Streak](https://streak-stats.demolab.com?user=mhaegeman&theme=github-dark-blue&hide_border=true)](https://github.com/mhaegeman)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mhaegeman&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/mhaegeman)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhaegeman&theme=github-compact&hide_border=true)](https://github.com/mhaegeman)
 
 </div>
 
