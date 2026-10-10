@@ -13,7 +13,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Maxime.;Senior+Data+%2F+ML+Engineer;Based+in+Copenhagen%2C+Denmark.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Maxime.;AI+Engineer;Based+in+Copenhagen%2C+Denmark.)
 
 ---
 
@@ -22,7 +22,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-maximehaegeman.com-00ff9d?style=flat-square&logo=firefox&logoColor=black)](https://www.maximehaegeman.com)
 [![Medium](https://img.shields.io/badge/Medium-%40maximehaegeman-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maximehaegeman)
 
-📍 Copenhagen, Denmark &nbsp;|&nbsp; Open to Data Engineering & ML Engineering roles
+📍 Copenhagen, Denmark &nbsp;|&nbsp; Open to chatting about AI, data & engineering
 
 </div>
 
@@ -35,7 +35,8 @@ class Maxime(DataScientist, DataEngineer):
     architecting scalable data & ML pipelines.
     """
     def __init__(self):
-        self.role    = "Senior Data / ML Engineer"
+        self.role    = "AI Engineer"
+        self.path    = "CS degree -> Data Scientist -> Data Engineer -> AI Engineer"
         self.base    = "Copenhagen, Denmark"
         self.exp     = 5  # years of experience
 
@@ -155,7 +156,7 @@ class Maxime(DataScientist, DataEngineer):
 
 <div align="center">
 
-If you are hiring in Copenhagen for Data Engineering or ML Engineering roles, I would love to connect.
+Want to talk AI, data or engineering? I would love to connect.
 
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
 

@@ -13,7 +13,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hej%2C+jeg+hedder+Maxime.;Senior+Data+%2F+ML+Ingeni%C3%B8r;Baseret+i+K%C3%B8benhavn%2C+Danmark.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hej%2C+jeg+hedder+Maxime.;AI+Ingeni%C3%B8r;Baseret+i+K%C3%B8benhavn%2C+Danmark.)
 
 ---
 
@@ -22,7 +22,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-maximehaegeman.com-00ff9d?style=flat-square&logo=firefox&logoColor=black)](https://www.maximehaegeman.com)
 [![Medium](https://img.shields.io/badge/Medium-%40maximehaegeman-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maximehaegeman)
 
-📍 København, Danmark &nbsp;|&nbsp; Åben for Data Engineering og ML Engineering stillinger
+📍 København, Danmark &nbsp;|&nbsp; Åben for at tale om AI, data og engineering
 
 </div>
 
@@ -35,7 +35,8 @@ class Maxime(DataScientist, DataIngeniør):
     og designer skalerbare data- og ML-pipelines.
     """
     def __init__(self):
-        self.rolle   = "Senior Data / ML Ingeniør"
+        self.rolle   = "AI Ingeniør"
+        self.vej      = "Datalogi -> Data Scientist -> Data Engineer -> AI-ingeniør"
         self.base    = "København, Danmark"
         self.erfaring = 5  # års erfaring
 
@@ -155,7 +156,7 @@ class Maxime(DataScientist, DataIngeniør):
 
 <div align="center">
 
-Rekrutterer du i København til Data Engineering eller ML Engineering stillinger? Lad os forbindes.
+Vil du tale om AI, data eller engineering? Lad os forbindes.
 
 [![Lad os forbindes](https://img.shields.io/badge/Lad_os_forbindes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
 

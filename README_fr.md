@@ -13,7 +13,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Maxime.;Senior+Data+%2F+ML+Engineer;Bas%C3%A9+%C3%A0+Copenhague%2C+Danemark.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Bonjour%2C+je+suis+Maxime.;AI+Engineer;Bas%C3%A9+%C3%A0+Copenhague%2C+Danemark.)
 
 ---
 
@@ -22,7 +22,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-maximehaegeman.com-00ff9d?style=flat-square&logo=firefox&logoColor=black)](https://www.maximehaegeman.com)
 [![Medium](https://img.shields.io/badge/Medium-%40maximehaegeman-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maximehaegeman)
 
-📍 Copenhague, Danemark &nbsp;|&nbsp; Ouvert aux postes Data Engineering & ML Engineering
+📍 Copenhague, Danemark &nbsp;|&nbsp; Ouvert aux échanges sur l'IA, la data & l'ingénierie
 
 </div>
 
@@ -35,7 +35,8 @@ class Maxime(DataScientist, DataEngineer):
     en concevant des pipelines data & ML scalables.
     """
     def __init__(self):
-        self.role         = "Senior Data / ML Engineer"
+        self.role         = "AI Engineer"
+        self.path         = "Diplôme en informatique -> Data Scientist -> Data Engineer -> AI Engineer"
         self.base         = "Copenhague, Danemark"
         self.experience   = 5  # années d'expérience
 
@@ -155,7 +156,7 @@ class Maxime(DataScientist, DataEngineer):
 
 <div align="center">
 
-Si vous recrutez à Copenhague pour un poste Data Engineer ou ML Engineer, n'hésitez pas à me contacter.
+Vous souhaitez échanger sur l'IA, la data ou l'ingénierie ? Je serai ravi de discuter avec vous.
 
 [![Me contacter](https://img.shields.io/badge/Me_contacter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
 
