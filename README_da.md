@@ -93,13 +93,47 @@ class Maxime(DataScientist, DataIngeniør):
 
 ---
 
-## 🚀 Udvalgte projekter
+## 🚀 Fremhævede projekter
 
-| Projekt | Beskrivelse | Teknologi |
-|---|---|---|
-| [**seo-content-generator**](https://github.com/mhaegeman/seo-content-generator) | Automatiseret indholdsgenerering optimeret til SEO-performance | `Python` `NLP` |
-| [**openweather**](https://github.com/mhaegeman/openweather) | Integration med OpenWeather API til meteorologisk dataanalyse i realtid | `API` `Data Integration` |
-| [**scoring-bank-project**](https://github.com/mhaegeman/scoring-bank-project) | Kreditscoringsmodel og analyse for bankkundedata | `Data Science` `Scoring` |
+<div align="center">
+
+[![kbh-folkeskole-tracker](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=kbh-folkeskole-tracker&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/kbh-folkeskole-tracker)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-79c0ff?style=flat-square&logo=typescript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-d2a8ff?style=flat-square&logo=vite&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-d2a8ff?style=flat-square&logo=nodedotjs&logoColor=black) ![Offentlige data](https://img.shields.io/badge/Offentlige_data-8b949e?style=flat-square) ![Scoring](https://img.shields.io/badge/Scoring-8b949e?style=flat-square) ![Geodata](https://img.shields.io/badge/Geodata-8b949e?style=flat-square) ![Webapp](https://img.shields.io/badge/Webapp-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![scoring-bank-project](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=scoring-bank-project&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/scoring-bank-project)
+
+![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![LightGBM](https://img.shields.io/badge/LightGBM-3fb950?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-d2a8ff?style=flat-square&logo=streamlit&logoColor=black) ![Kreditrisiko](https://img.shields.io/badge/Kreditrisiko-8b949e?style=flat-square) ![Klassifikation](https://img.shields.io/badge/Klassifikation-8b949e?style=flat-square) ![Dashboard](https://img.shields.io/badge/Dashboard-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![openweather](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=openweather&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/openweather)
+
+![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-ffa657?style=flat-square&logo=mysql&logoColor=black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ffa657?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-8b949e?style=flat-square) ![Tidsserier](https://img.shields.io/badge/Tidsserier-8b949e?style=flat-square) ![Cron-jobs](https://img.shields.io/badge/Cron--jobs-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![seattle-building-energy-forecast](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=seattle-building-energy-forecast&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/seattle-building-energy-forecast)
+
+![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![XGBoost](https://img.shields.io/badge/XGBoost-3fb950?style=flat-square&logo=xgboost&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black) ![Regression](https://img.shields.io/badge/Regression-8b949e?style=flat-square) ![Feature engineering](https://img.shields.io/badge/Feature_engineering-8b949e?style=flat-square) ![Energi](https://img.shields.io/badge/Energi-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![fruit-classifier-aws](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=fruit-classifier-aws&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/fruit-classifier-aws)
+
+![PySpark](https://img.shields.io/badge/PySpark-ffa657?style=flat-square&logo=apachespark&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3fb950?style=flat-square&logo=tensorflow&logoColor=black) ![AWS EMR](https://img.shields.io/badge/AWS_EMR-d2a8ff?style=flat-square&logo=amazonaws&logoColor=black) ![Computer vision](https://img.shields.io/badge/Computer_vision-8b949e?style=flat-square) ![PCA](https://img.shields.io/badge/PCA-8b949e?style=flat-square) ![Distribueret processering](https://img.shields.io/badge/Distribueret_processering-8b949e?style=flat-square)
+
+</div>
 
 ---
 
@@ -114,10 +148,6 @@ class Maxime(DataScientist, DataIngeniør):
 <br/>
 
 [![Streak](https://streak-stats.demolab.com?user=mhaegeman&theme=github-dark-blue&hide_border=true)](https://github.com/mhaegeman)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mhaegeman&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/mhaegeman)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhaegeman&theme=github-compact&hide_border=true)](https://github.com/mhaegeman)
 
 </div>
 

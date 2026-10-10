@@ -93,13 +93,47 @@ class Maxime(DataScientist, DataEngineer):
 
 ---
 
-## 🚀 Projets sélectionnés
+## 🚀 Projets phares
 
-| Projet | Description | Stack |
-|---|---|---|
-| [**seo-content-generator**](https://github.com/mhaegeman/seo-content-generator) | Outil de génération de contenu automatisé optimisé pour le référencement SEO | `Python` `NLP` |
-| [**openweather**](https://github.com/mhaegeman/openweather) | Intégration avec l'API OpenWeather pour l'analyse de données météorologiques en temps réel | `API` `Data Integration` |
-| [**scoring-bank-project**](https://github.com/mhaegeman/scoring-bank-project) | Modèle de scoring crédit et analyse pour données bancaires | `Data Science` `Scoring` |
+<div align="center">
+
+[![kbh-folkeskole-tracker](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=kbh-folkeskole-tracker&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/kbh-folkeskole-tracker)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-79c0ff?style=flat-square&logo=typescript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-d2a8ff?style=flat-square&logo=vite&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-d2a8ff?style=flat-square&logo=nodedotjs&logoColor=black) ![Données publiques](https://img.shields.io/badge/Donn%C3%A9es_publiques-8b949e?style=flat-square) ![Scoring](https://img.shields.io/badge/Scoring-8b949e?style=flat-square) ![Cartes](https://img.shields.io/badge/Cartes-8b949e?style=flat-square) ![Application web](https://img.shields.io/badge/Application_web-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![scoring-bank-project](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=scoring-bank-project&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/scoring-bank-project)
+
+![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![LightGBM](https://img.shields.io/badge/LightGBM-3fb950?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-d2a8ff?style=flat-square&logo=streamlit&logoColor=black) ![Risque de crédit](https://img.shields.io/badge/Risque_de_cr%C3%A9dit-8b949e?style=flat-square) ![Classification](https://img.shields.io/badge/Classification-8b949e?style=flat-square) ![Tableau de bord](https://img.shields.io/badge/Tableau_de_bord-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![openweather](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=openweather&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/openweather)
+
+![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-ffa657?style=flat-square&logo=mysql&logoColor=black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ffa657?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-8b949e?style=flat-square) ![Séries temporelles](https://img.shields.io/badge/S%C3%A9ries_temporelles-8b949e?style=flat-square) ![Tâches cron](https://img.shields.io/badge/T%C3%A2ches_cron-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![seattle-building-energy-forecast](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=seattle-building-energy-forecast&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/seattle-building-energy-forecast)
+
+![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![XGBoost](https://img.shields.io/badge/XGBoost-3fb950?style=flat-square&logo=xgboost&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black) ![Régression](https://img.shields.io/badge/R%C3%A9gression-8b949e?style=flat-square) ![Ingénierie des variables](https://img.shields.io/badge/Ing%C3%A9nierie_des_variables-8b949e?style=flat-square) ![Énergie](https://img.shields.io/badge/%C3%89nergie-8b949e?style=flat-square)
+
+</div>
+
+<div align="center">
+
+[![fruit-classifier-aws](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=fruit-classifier-aws&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/fruit-classifier-aws)
+
+![PySpark](https://img.shields.io/badge/PySpark-ffa657?style=flat-square&logo=apachespark&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3fb950?style=flat-square&logo=tensorflow&logoColor=black) ![AWS EMR](https://img.shields.io/badge/AWS_EMR-d2a8ff?style=flat-square&logo=amazonaws&logoColor=black) ![Vision par ordinateur](https://img.shields.io/badge/Vision_par_ordinateur-8b949e?style=flat-square) ![ACP](https://img.shields.io/badge/ACP-8b949e?style=flat-square) ![Traitement distribué](https://img.shields.io/badge/Traitement_distribu%C3%A9-8b949e?style=flat-square)
+
+</div>
 
 ---
 
@@ -114,10 +148,6 @@ class Maxime(DataScientist, DataEngineer):
 <br/>
 
 [![Streak](https://streak-stats.demolab.com?user=mhaegeman&theme=github-dark-blue&hide_border=true)](https://github.com/mhaegeman)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mhaegeman&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/mhaegeman)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhaegeman&theme=github-compact&hide_border=true)](https://github.com/mhaegeman)
 
 </div>
 
