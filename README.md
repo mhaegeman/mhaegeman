@@ -20,33 +20,44 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=mhaegeman&style=flat-square&color=00ff9d&label=profile+views)](https://github.com/mhaegeman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maxime--haegeman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-maximehaegeman.com-00ff9d?style=flat-square&logo=firefox&logoColor=black)](https://www.maximehaegeman.com)
+[![AI Lab](https://img.shields.io/badge/AI_Lab-live_experiments-ccff00?style=flat-square&logo=openai&logoColor=black)](https://www.maximehaegeman.com/lab.html)
 [![Medium](https://img.shields.io/badge/Medium-%40maximehaegeman-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@maximehaegeman)
 
-📍 Copenhagen, Denmark &nbsp;|&nbsp; Open to chatting about AI, data & engineering
+📍 Copenhagen, Denmark &nbsp;|&nbsp; Open to chatting about AI, LLMs, data & engineering
 
 </div>
 
 ---
 
 ```python
-class Maxime(DataScientist, DataEngineer):
+class Maxime(AIEngineer, DataEngineer):
     """
-    Developer bridging the gap between models and production,
-    architecting scalable data & ML pipelines.
+    AI engineer turning LLMs into reliable products:
+    agents, retrieval (RAG) and evals, built on
+    solid data & ML pipelines.
     """
     def __init__(self):
-        self.role    = "AI Engineer"
-        self.path    = "CS degree -> Data Scientist -> Data Engineer -> AI Engineer"
-        self.base    = "Copenhagen, Denmark"
-        self.exp     = 5  # years of experience
+        self.role = "AI Engineer"
+        self.path = "CS degree -> Data Scientist -> Data Engineer -> AI Engineer"
+        self.base = "Copenhagen, Denmark"
+        self.exp  = 5  # years of experience
 
     def mission(self) -> str:
-        return "From messy data to reliable predictions, at scale."
+        return "From raw data to AI systems you can trust."
 ```
 
 ---
 
 ## 🔧 Technical Skills
+
+**`ai_eng`**&nbsp;&nbsp;&nbsp;
+![LLMs](https://img.shields.io/badge/LLMs-ff6b9d?style=flat-square&logo=openai&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-ff6b9d?style=flat-square)
+![Agents](https://img.shields.io/badge/Agents-ff6b9d?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-ff6b9d?style=flat-square)
+![Evals](https://img.shields.io/badge/Evals-ff6b9d?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-ff6b9d?style=flat-square)
+![Tracing](https://img.shields.io/badge/Tracing-ff6b9d?style=flat-square)
 
 **`languages`**&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black)
@@ -54,16 +65,15 @@ class Maxime(DataScientist, DataEngineer):
 ![Bash](https://img.shields.io/badge/Bash-79c0ff?style=flat-square&logo=gnubash&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-79c0ff?style=flat-square&logo=yaml&logoColor=black)
 
-**`cloud_infra`**&nbsp;
+**`cloud_infra`**&nbsp;&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-d2a8ff?style=flat-square&logo=microsoftazure&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-d2a8ff?style=flat-square&logo=databricks&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-d2a8ff?style=flat-square&logo=googlecloud&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-d2a8ff?style=flat-square&logo=amazonaws&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-d2a8ff?style=flat-square&logo=docker&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-d2a8ff?style=flat-square&logo=openai&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-d2a8ff?style=flat-square&logo=githubactions&logoColor=black)
 
-**`data_eng`**&nbsp;&nbsp;
+**`data_eng`**&nbsp;&nbsp;&nbsp;
 ![PySpark](https://img.shields.io/badge/PySpark-ffa657?style=flat-square&logo=apachespark&logoColor=black)
 ![Airflow](https://img.shields.io/badge/Airflow-ffa657?style=flat-square&logo=apacheairflow&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-ffa657?style=flat-square&logo=snowflake&logoColor=black)
@@ -71,7 +81,7 @@ class Maxime(DataScientist, DataEngineer):
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-ffa657?style=flat-square&logo=githubactions&logoColor=black)
 ![Data Governance](https://img.shields.io/badge/Data_Governance-ffa657?style=flat-square&logo=databricks&logoColor=black)
 
-**`ml_stack`**&nbsp;&nbsp;
+**`ml_stack`**&nbsp;&nbsp;&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-3fb950?style=flat-square&logo=tensorflow&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-3fb950?style=flat-square&logo=pytorch&logoColor=black)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-3fb950?style=flat-square&logo=huggingface&logoColor=black)
@@ -79,62 +89,79 @@ class Maxime(DataScientist, DataEngineer):
 ![MLflow](https://img.shields.io/badge/MLflow-3fb950?style=flat-square&logo=mlflow&logoColor=black)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3fb950?style=flat-square&logo=xgboost&logoColor=black)
 
-**`monitoring`**&nbsp;
+**`monitoring`**&nbsp;&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-8b949e?style=flat-square&logo=grafana&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-8b949e?style=flat-square&logo=tableau&logoColor=black)
 ![PowerBI](https://img.shields.io/badge/PowerBI-8b949e?style=flat-square&logo=powerbi&logoColor=black)
-
-**`project_mgmt`**&nbsp;
-![Agile](https://img.shields.io/badge/Agile-f778ba?style=flat-square&logo=agile&logoColor=black)
-![Scrum](https://img.shields.io/badge/Scrum-f778ba?style=flat-square&logo=scrumalliance&logoColor=black)
-![Kanban](https://img.shields.io/badge/Kanban-f778ba?style=flat-square&logo=kanban&logoColor=black)
-![JIRA](https://img.shields.io/badge/JIRA-f778ba?style=flat-square&logo=jira&logoColor=black)
-![Confluence](https://img.shields.io/badge/Confluence-f778ba?style=flat-square&logo=confluence&logoColor=black)
-![OKRs](https://img.shields.io/badge/OKRs-f778ba?style=flat-square&logo=target&logoColor=black)
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+ <tr>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/nextrank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=nextrank&theme=github_dark&hide_border=true" alt="nextrank"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black" alt="Python"/> <img src="https://img.shields.io/badge/Vertex_AI-d2a8ff?style=flat-square&logo=googlecloud&logoColor=black" alt="Vertex AI"/> <img src="https://img.shields.io/badge/Streamlit-d2a8ff?style=flat-square&logo=streamlit&logoColor=black" alt="Streamlit"/> <img src="https://img.shields.io/badge/LLM-8b949e?style=flat-square" alt="LLM"/> <img src="https://img.shields.io/badge/Generative_AI-8b949e?style=flat-square" alt="Generative AI"/> <img src="https://img.shields.io/badge/SEO-8b949e?style=flat-square" alt="SEO"/>
+  </td>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/Verba"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=Verba&theme=github_dark&hide_border=true" alt="Verba"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black" alt="Python"/> <img src="https://img.shields.io/badge/Weaviate-d2a8ff?style=flat-square" alt="Weaviate"/> <img src="https://img.shields.io/badge/RAG-8b949e?style=flat-square" alt="RAG"/> <img src="https://img.shields.io/badge/LLM-8b949e?style=flat-square" alt="LLM"/> <img src="https://img.shields.io/badge/Vector_DB-8b949e?style=flat-square" alt="Vector DB"/> <img src="https://img.shields.io/badge/Chatbot-8b949e?style=flat-square" alt="Chatbot"/>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/kbh-folkeskole-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=kbh-folkeskole-tracker&theme=github_dark&hide_border=true" alt="kbh-folkeskole-tracker"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/TypeScript-79c0ff?style=flat-square&logo=typescript&logoColor=black" alt="TypeScript"/> <img src="https://img.shields.io/badge/Vite-d2a8ff?style=flat-square&logo=vite&logoColor=black" alt="Vite"/> <img src="https://img.shields.io/badge/Node.js-d2a8ff?style=flat-square&logo=nodedotjs&logoColor=black" alt="Node.js"/> <img src="https://img.shields.io/badge/Public_data-8b949e?style=flat-square" alt="Public data"/> <img src="https://img.shields.io/badge/Scoring-8b949e?style=flat-square" alt="Scoring"/> <img src="https://img.shields.io/badge/Geo_maps-8b949e?style=flat-square" alt="Geo maps"/>
+  </td>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/scoring-bank-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=scoring-bank-project&theme=github_dark&hide_border=true" alt="scoring-bank-project"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black" alt="Python"/> <img src="https://img.shields.io/badge/LightGBM-3fb950?style=flat-square" alt="LightGBM"/> <img src="https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Streamlit-d2a8ff?style=flat-square&logo=streamlit&logoColor=black" alt="Streamlit"/> <img src="https://img.shields.io/badge/Credit_risk-8b949e?style=flat-square" alt="Credit risk"/> <img src="https://img.shields.io/badge/Dashboard-8b949e?style=flat-square" alt="Dashboard"/>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/fruit-classifier-aws"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=fruit-classifier-aws&theme=github_dark&hide_border=true" alt="fruit-classifier-aws"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/PySpark-ffa657?style=flat-square&logo=apachespark&logoColor=black" alt="PySpark"/> <img src="https://img.shields.io/badge/TensorFlow-3fb950?style=flat-square&logo=tensorflow&logoColor=black" alt="TensorFlow"/> <img src="https://img.shields.io/badge/AWS_EMR-d2a8ff?style=flat-square&logo=amazonaws&logoColor=black" alt="AWS EMR"/> <img src="https://img.shields.io/badge/Computer_vision-8b949e?style=flat-square" alt="Computer vision"/> <img src="https://img.shields.io/badge/PCA-8b949e?style=flat-square" alt="PCA"/> <img src="https://img.shields.io/badge/Distributed_processing-8b949e?style=flat-square" alt="Distributed processing"/>
+  </td>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/seattle-building-energy-forecast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=seattle-building-energy-forecast&theme=github_dark&hide_border=true" alt="seattle-building-energy-forecast"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black" alt="Python"/> <img src="https://img.shields.io/badge/XGBoost-3fb950?style=flat-square&logo=xgboost&logoColor=black" alt="XGBoost"/> <img src="https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black" alt="scikit-learn"/> <img src="https://img.shields.io/badge/Regression-8b949e?style=flat-square" alt="Regression"/> <img src="https://img.shields.io/badge/Feature_engineering-8b949e?style=flat-square" alt="Feature engineering"/> <img src="https://img.shields.io/badge/Energy-8b949e?style=flat-square" alt="Energy"/>
+  </td>
+ </tr>
+ <tr>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/Python-Object-Clasifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=Python-Object-Clasifier&theme=github_dark&hide_border=true" alt="Python-Object-Clasifier"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black" alt="Python"/> <img src="https://img.shields.io/badge/NLP-3fb950?style=flat-square" alt="NLP"/> <img src="https://img.shields.io/badge/LDA-3fb950?style=flat-square" alt="LDA"/> <img src="https://img.shields.io/badge/Topic_modeling-8b949e?style=flat-square" alt="Topic modeling"/> <img src="https://img.shields.io/badge/Text_classification-8b949e?style=flat-square" alt="Text classification"/>
+  </td>
+  <td width="50%" align="center" valign="top">
+   <a href="https://github.com/mhaegeman/openweather"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=openweather&theme=github_dark&hide_border=true" alt="openweather"/></a>
+   <br/>
+   <img src="https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black" alt="Python"/> <img src="https://img.shields.io/badge/MySQL-ffa657?style=flat-square&logo=mysql&logoColor=black" alt="MySQL"/> <img src="https://img.shields.io/badge/SQLAlchemy-ffa657?style=flat-square" alt="SQLAlchemy"/> <img src="https://img.shields.io/badge/ETL-8b949e?style=flat-square" alt="ETL"/> <img src="https://img.shields.io/badge/Time_series-8b949e?style=flat-square" alt="Time series"/> <img src="https://img.shields.io/badge/Cron_jobs-8b949e?style=flat-square" alt="Cron jobs"/>
+  </td>
+ </tr>
+</table>
+
 <div align="center">
 
-[![kbh-folkeskole-tracker](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=kbh-folkeskole-tracker&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/kbh-folkeskole-tracker)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-79c0ff?style=flat-square&logo=typescript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-d2a8ff?style=flat-square&logo=vite&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-d2a8ff?style=flat-square&logo=nodedotjs&logoColor=black) ![Public data](https://img.shields.io/badge/Public_data-8b949e?style=flat-square) ![Scoring](https://img.shields.io/badge/Scoring-8b949e?style=flat-square) ![Geo maps](https://img.shields.io/badge/Geo_maps-8b949e?style=flat-square) ![Web app](https://img.shields.io/badge/Web_app-8b949e?style=flat-square)
+[**All projects →**](https://www.maximehaegeman.com/projects.html)
 
 </div>
 
-<div align="center">
+---
 
-[![scoring-bank-project](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=scoring-bank-project&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/scoring-bank-project)
+## 🧪 AI Lab
 
-![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![LightGBM](https://img.shields.io/badge/LightGBM-3fb950?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-d2a8ff?style=flat-square&logo=streamlit&logoColor=black) ![Credit risk](https://img.shields.io/badge/Credit_risk-8b949e?style=flat-square) ![Classification](https://img.shields.io/badge/Classification-8b949e?style=flat-square) ![Dashboard](https://img.shields.io/badge/Dashboard-8b949e?style=flat-square)
+Live, in-browser AI experiments on my portfolio: hybrid semantic search (BM25 + MiniLM embeddings + RRF) and an agent trace replay viewer.
 
-</div>
-
-<div align="center">
-
-[![openweather](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=openweather&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/openweather)
-
-![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-ffa657?style=flat-square&logo=mysql&logoColor=black) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ffa657?style=flat-square) ![ETL](https://img.shields.io/badge/ETL-8b949e?style=flat-square) ![Time series](https://img.shields.io/badge/Time_series-8b949e?style=flat-square) ![Cron jobs](https://img.shields.io/badge/Cron_jobs-8b949e?style=flat-square)
-
-</div>
-
-<div align="center">
-
-[![seattle-building-energy-forecast](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=seattle-building-energy-forecast&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/seattle-building-energy-forecast)
-
-![Python](https://img.shields.io/badge/Python-79c0ff?style=flat-square&logo=python&logoColor=black) ![XGBoost](https://img.shields.io/badge/XGBoost-3fb950?style=flat-square&logo=xgboost&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-3fb950?style=flat-square&logo=scikitlearn&logoColor=black) ![Regression](https://img.shields.io/badge/Regression-8b949e?style=flat-square) ![Feature engineering](https://img.shields.io/badge/Feature_engineering-8b949e?style=flat-square) ![Energy](https://img.shields.io/badge/Energy-8b949e?style=flat-square)
-
-</div>
-
-<div align="center">
-
-[![fruit-classifier-aws](https://github-readme-stats.vercel.app/api/pin/?username=mhaegeman&repo=fruit-classifier-aws&theme=github_dark&hide_border=true)](https://github.com/mhaegeman/fruit-classifier-aws)
-
-![PySpark](https://img.shields.io/badge/PySpark-ffa657?style=flat-square&logo=apachespark&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-3fb950?style=flat-square&logo=tensorflow&logoColor=black) ![AWS EMR](https://img.shields.io/badge/AWS_EMR-d2a8ff?style=flat-square&logo=amazonaws&logoColor=black) ![Computer vision](https://img.shields.io/badge/Computer_vision-8b949e?style=flat-square) ![PCA](https://img.shields.io/badge/PCA-8b949e?style=flat-square) ![Distributed processing](https://img.shields.io/badge/Distributed_processing-8b949e?style=flat-square)
-
-</div>
+[![Open the AI Lab](https://img.shields.io/badge/Open_the_AI_Lab-ccff00?style=for-the-badge&logo=openai&logoColor=black)](https://www.maximehaegeman.com/lab.html)
 
 ---
 
@@ -156,8 +183,8 @@ class Maxime(DataScientist, DataEngineer):
 
 <div align="center">
 
-Want to talk AI, data or engineering? I would love to connect.
+Building something with AI? I would love to connect.
 
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
+[![Let's Connect](https://img.shields.io/badge/Let%27s_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
 
 </div>
