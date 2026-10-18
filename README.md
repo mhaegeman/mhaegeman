@@ -17,7 +17,7 @@
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mhaegeman&style=flat-square&color=00ff9d&label=profile+views)](https://github.com/mhaegeman)
+[![Profile Views](https://hits.sh/github.com/mhaegeman.svg?style=flat-square&color=00ff9d&label=profile%20views)](https://hits.sh/github.com/mhaegeman/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-maxime--haegeman-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxime-haegeman)
 [![Portfolio](https://img.shields.io/badge/Portfolio-maximehaegeman.com-00ff9d?style=flat-square&logo=firefox&logoColor=black)](https://www.maximehaegeman.com)
 [![AI Lab](https://img.shields.io/badge/AI_Lab-live_experiments-ccff00?style=flat-square&logo=openai&logoColor=black)](https://www.maximehaegeman.com/lab.html)
